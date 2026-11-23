@@ -1,1 +1,2 @@
 hello from feature branch
+this file belongs to newfeature branch
